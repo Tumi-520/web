@@ -1,7 +1,7 @@
 <template>
-  <router-view></router-view>
+  <div>content</div>
 </template>
-<script setup lang='ts'>
+<script setup lang="ts">
 </script>
 <style scoped>
 
